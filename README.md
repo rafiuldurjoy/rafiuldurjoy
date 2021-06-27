@@ -6,7 +6,6 @@
 - ⚡ Fun fact: I love to eat food
 
 ### Connect with me:
-
 [<img align="left" alt="rafiuldurjoy | Instagram" width="22px" src="https://img.icons8.com/fluent/2x/instagram-new.png" />][instagram]
 ---
 [instagram]: https://www.instagram.com/durjoy_r__a/
