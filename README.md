@@ -1,6 +1,6 @@
 ### Hi there, I'm Rafiul Durjoy👋
 
-## I'm a student of Bsc in Computer Science And Engineering
+## I'm a student of B.sc in Computer Science And Engineering
 - 🌱 I’m currently learning new skill
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to eat food
