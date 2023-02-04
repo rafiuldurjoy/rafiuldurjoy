@@ -1,4 +1,4 @@
-### Hi there, I'm Rafiul Durjoy👋
+### Hi there, I'm Rafiul Durjoy
 
 ## I'm a student of B.sc in Computer Science And Engineering
 - 🌱 I’m currently learning new skill
